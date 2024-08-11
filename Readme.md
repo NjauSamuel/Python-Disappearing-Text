@@ -1,6 +1,6 @@
 # About
 
-This is a Dissappearing Text Application Built with Python's Tkinter
+This is a Dissappearing Text Application Built with Python's Tkinter.
 
 It helps cure writters block because when you stop writting your text will
 dissappear.
